@@ -18,6 +18,8 @@ export default () => (
       <Link to="/">Profile</Link>
       {` `}
       <Link to="/">Logout</Link>
+      {` `}
+      <Link to="/">Tai 123</Link>
     </nav>
   </div>
 )
