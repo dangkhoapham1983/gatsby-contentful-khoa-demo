@@ -19,7 +19,7 @@ export default () => (
       {` `}
       <Link to="/">Logout</Link>
       {` `}
-      <Link to="/">Tai Pham</Link>
+      <Link to="/">Tai </Link>
     </nav>
   </div>
 )
